@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200" role="img">
+  <title>Clover, a lop-eared rabbit: a drawing standing in for a photo</title>
+  <rect width="300" height="200" fill="#e3f1e0"/>
+  <ellipse cx="150" cy="190" rx="110" ry="18" fill="#00000014"/>
+  <ellipse cx="150" cy="160" rx="62" ry="34" fill="#8d8d8d"/>
+  <ellipse cx="128" cy="96" rx="11" ry="36" fill="#8d8d8d" transform="rotate(-25 128 96)"/><ellipse cx="172" cy="96" rx="11" ry="36" fill="#8d8d8d" transform="rotate(25 172 96)"/>
+  <circle cx="150" cy="104" r="38" fill="#8d8d8d"/>
+  <ellipse cx="150" cy="120" rx="20" ry="14" fill="#bdbdbd"/>
+  <circle cx="137" cy="98" r="5" fill="#1d1d1d"/><circle cx="163" cy="98" r="5" fill="#1d1d1d"/>
+  <ellipse cx="150" cy="114" rx="6" ry="4" fill="#3b2a20"/>
+</svg>

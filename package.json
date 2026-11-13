@@ -1,0 +1,12 @@
+{
+  "name": "exercise-css-adoption-cards-badges",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercise code for Exercise: Badges and a Sticky Header in CSS in Depth on ask-codey.com",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "30.1.3"
+  }
+}
